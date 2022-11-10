@@ -29,8 +29,8 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Odin
-header: Urban Network Intelligence for solving traffic Queues
-subheader: Support and documentation for Odin
+header: UNIQ
+subheader: Urban Network Intelligence for solving traffic Queues
 
 meta_image: odin-meta.png
 
@@ -44,14 +44,17 @@ instagram_username:
 
 
 # Navivation
-nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one: Technology
+nav_item_one_link: https://github.com/etri-city-traffic-brain
 
-nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two: Community
+nav_item_two_link: https://github.com/etri-city-traffic-brain
 
-nav_item_three: #
-nav_item_three_link: #
+nav_item_three: Github
+nav_item_three_link: https://github.com/etri-city-traffic-brain
+
+nav_item_four: Demo
+nav_item_four_link: https://twitter.com/TheTeaGuns
 
 nav_button: Return to Odin Home
 nav_button_link: https://teaguns.github.io/odin/
