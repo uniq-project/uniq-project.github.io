@@ -1,9 +1,30 @@
-# Odin Knowledge Base
+Agency Jekyll theme
+====================
 
-Odin is a Jekyll template for knowledgebases and support sites. Please see the [official Jekyll docs](https://jekyllrb.com/docs/) for more info on running, building and editing a Jekyll site.
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-*Full documentation is in the works and coming soon*
+# How to use
+
+###Portfolio 
+
+Portfolio projects are in '/_posts'
+
+Images are in '/img/portfolio'
+
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
 
 
+# Demo
 
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
+=========
+For more details, read [documentation](http://jekyllrb.com/)
