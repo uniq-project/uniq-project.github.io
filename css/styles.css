@@ -11514,18 +11514,18 @@ header.masthead .masthead-heading {
 .portfolio-modal .modal-content p {
   margin-bottom: 2rem;
 }
-.portfolio-modal .modal-content > ul,
-.portfolio-modal .modal-content > p {
-  margin-bottom: 2rem;
-}
-
 .portfolio-modal .modal-content ul.list-inline {
   margin-bottom: 2rem;
   margin-left: 2rem;
   text-align: left;
   list-style-type: circle;
 }
-
+.portfolio-modal .modal-content ul.list-inline2 {
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+  text-align: left;
+  list-style-type: circle;
+}
 
 .portfolio-modal .modal-content img {
   margin-bottom: 2rem;
